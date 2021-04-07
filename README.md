@@ -213,6 +213,7 @@
 1. [面向程序员的深度学习](https://github.com/fastai/fastbook)（Practical Deep Learning for Coders）（[官网](https://course.fast.ai/)）
 1. [从头学习机器学习](https://dafriedman97.github.io/mlbook/content/introduction.html)（Machine Learning from Scratch)
 1. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book)
+1. [Search Engines Information Retrieval in Practice](https://ciir.cs.umass.edu/downloads/SEIRiP.pdf)
 
 ## 七、数学理论
 
